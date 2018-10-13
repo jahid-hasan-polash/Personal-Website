@@ -1,0 +1,27 @@
+<section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+    <div class="my-auto">
+        <h1 class="mb-0">Jahid
+            <span class="text-primary">Hasan</span> Polash
+        </h1>
+        <div class="subheading mb-5">Elahi 8B, Surma, Akhalia · Sylhet, 3110 · Bangladesh · +8801682470258 ·
+            <a href="mailto:jahidhasanpolash@gmail.com">jahidhasanpolash@gmail.com</a>
+        </div>
+        <p class="lead mb-5">
+            I am an iOS developer.
+        </p>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/jahidhasanpolash" target="_blank">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://github.com/jahid-hasan-polash" target="_blank">
+                <i class="fab fa-github"></i>
+            </a>
+            <a href="https://twitter.com/jhpolash" target="_blank">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.facebook.com/jahidhasan.polash.7" target="_blank">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </div>
+    </div>
+</section>

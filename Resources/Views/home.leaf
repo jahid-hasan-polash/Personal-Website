@@ -1,0 +1,14 @@
+#set("title") { Jahid Hasan Polash }
+
+#set("body") {
+<!-- Add nav bar -->
+    #embed("nav")
+    <div class="container-fluid p-0">
+<!-- Add About section -->
+    #embed("about")
+<!-- Add Education section -->
+    #embed("education")
+    </div>
+}
+
+#embed("base")
