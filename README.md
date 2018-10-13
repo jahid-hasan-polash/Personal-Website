@@ -1,7 +1,4 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/1342803/43869499-ce6ce122-9b40-11e8-8894-e0c48eabf270.png" width="320" alt="Web Template">
-    <br>
-    <br>
     <a href="http://docs.vapor.codes/3.0/">
         <img src="http://img.shields.io/badge/read_the-docs-2196f3.svg" alt="Documentation">
     </a>
