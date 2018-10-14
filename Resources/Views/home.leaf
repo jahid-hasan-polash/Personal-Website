@@ -6,8 +6,14 @@
     <div class="container-fluid p-0">
 <!-- Add About section -->
     #embed("about")
+<!-- Add Experience section -->
+    #embed("experience")
 <!-- Add Education section -->
     #embed("education")
+<!-- Add Skills section -->
+    #embed("skills")
+<!-- Add Co curricular section -->
+    #embed("cocurricular")
     </div>
 }
 

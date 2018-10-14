@@ -1,0 +1,78 @@
+<hr class="m-0">
+
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+<div class="my-auto">
+<h2 class="mb-5">Skills</h2>
+
+<div class="subheading">Programming Languages</div>
+<ul class="fa-ul mb-0">
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Swift</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Objective-C</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+PHP</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Python</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Java</li>
+<li>
+</ul>
+
+<br>
+
+<div class="subheading">Database</div>
+<ul class="fa-ul mb-0">
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+MySQL</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Oracle</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Firebase</li>
+</ul>
+
+<br>
+
+<div class="subheading">Frameworks</div>
+<ul class="fa-ul mb-0">
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+iOS development framework</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Vapor</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Laravel</li>
+</ul>
+
+<br>
+
+<div class="subheading">Tools</div>
+<ul class="fa-ul mb-0">
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Xcode</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Cocoapods</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+Git</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+App Store Connect</li>
+<li>
+<i class="fa-li fa fa-arrow-right"></i>
+VSCode</li>
+</ul>
+</div>
+</section>
